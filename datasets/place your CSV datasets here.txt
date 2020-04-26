@@ -1,0 +1,2 @@
+
+On this folder place your csv datasets. Carefull as it needs to have the same name of columns and rows.
